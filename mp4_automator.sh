@@ -20,6 +20,8 @@ apt-get install -qy python-dev
 apt-get install -qy ffmpeg
 apt-get install -qy python-pip
 pip install --upgrade pip
+pip install -U pip setuptools
+pip install pyOpenSSL==17.4.0
 pip install requests 
 pip install requests[security]
 pip install requests-cache
