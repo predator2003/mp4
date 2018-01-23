@@ -28,7 +28,7 @@ pip install requests-cache
 pip install babelfish
 pip install 'guessit<2'
 pip install 'subliminal<2'
-pip install stevedore
+pip install stevedore==1.19.1
 pip install python-dateutil
 pip install qtfaststart
 
